@@ -1,6 +1,6 @@
 # 🌡️ Urban Heat Island Detection — PyQGIS + Claude AI
 
-> \*\*Landsat raster analysis pipeline that detects urban heat zones and generates AI-powered urban planning reports using Anthropic's Claude.\*\*
+> \*\*Landsat raster analysis pipeline that detects urban heat zones over Houston, Texas, and generates AI-powered urban planning reports using Anthropic's Claude.\*\*
 
 Stack: Python · PyQGIS · Anthropic API
 
