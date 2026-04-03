@@ -1,0 +1,4 @@
+anthropic>=0.20.0
+numpy>=1.24.0
+# PyQGIS is bundled with QGIS Desktop — install from https://qgis.org
+# No pip install needed for qgis.core
