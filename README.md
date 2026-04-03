@@ -6,9 +6,7 @@ Stack: Python · PyQGIS · Anthropic API
 
 
 
-!\[Houston Urban Heat Island Heatmap](outputs/houston\_heatmap.png)
-
-\*Houston, TX — Landsat 9 thermal band (August 2024). Blue = cool water bodies. Orange/red = urban heat mass.\*
+![Houston Urban Heat Island Heatmap](https://raw.githubusercontent.com/1988Cameroun/urban-heat-qgis/main/outputs/houston_heatmap.png)
 
 \---
 
