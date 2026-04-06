@@ -4,6 +4,12 @@
 
 Stack: Python · PyQGIS · Anthropic API
 
+## Before and After
+
+### Raw Landsat Inputs
+| Band 4 (Red) | Band 5 (NIR) | Band 10 (Thermal) |
+|--------------|--------------|--------------------|
+| ![](media/Landsat9_B4_Red.png) | ![](media/Landsat9_B5_NIR.png) | ![](media/Landsat9_B10_Thermal.png) |
 
 
 ![Houston Urban Heat Island Heatmap](https://raw.githubusercontent.com/1988Cameroun/urban-heat-qgis/main/outputs/houston_heatmap.png)
