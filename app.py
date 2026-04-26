@@ -1,6 +1,7 @@
+"""
 Urban Heat Island Detection Dashboard
 PyQGIS + Claude AI - Houston, TX
-
+"""
 
 import streamlit as st
 import anthropic
