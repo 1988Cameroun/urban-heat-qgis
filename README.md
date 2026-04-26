@@ -1,6 +1,11 @@
 # 🌡️ Urban Heat Island Detection — PyQGIS + Claude AI
+## Live Demo
+Interactive decision-support dashboard:
+- Explore heat zones across Houston
+- Adjust extreme heat thresholds in real-time
+- Visualize NDVI vs temperature relationships
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://houston-uhi-detection.streamlit.app)
-> \*\*Landsat raster analysis pipeline that detects urban heat zones over Houston, Texas, and generates AI-powered urban planning reports using Anthropic's Claude.\*\*
+> \*\*Detects and quantifies urban heat islands using satellite data, generating actionable urban planning insights via an automated geospatial + AI pipeline.\*\*
 
 Stack: Python · PyQGIS · Anthropic API
 
