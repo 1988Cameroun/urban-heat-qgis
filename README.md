@@ -1,5 +1,5 @@
 # 🌡️ Urban Heat Island Detection — PyQGIS + Claude AI
-
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://houston-uhi-detection.streamlit.app)
 > \*\*Landsat raster analysis pipeline that detects urban heat zones over Houston, Texas, and generates AI-powered urban planning reports using Anthropic's Claude.\*\*
 
 Stack: Python · PyQGIS · Anthropic API
