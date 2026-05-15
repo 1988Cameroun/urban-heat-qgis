@@ -1,3 +1,10 @@
+## 3D GIS Flyover Visualization
+
+This project also includes a cinematic 3D terrain flyover demonstrating thermal overlay integration and geospatial animation workflows.
+
+▶ YouTube Demo:
+https://youtu.be/ku7GaLSLmMM
+
 # 🌡️ Urban Heat Island Detection — PyQGIS + Claude AI
 ## Live Demo
 Interactive decision-support dashboard:
