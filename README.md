@@ -4,7 +4,7 @@ This project also includes a cinematic 3D terrain flyover demonstrating thermal 
 
 ▶ YouTube Demo:
 https://youtu.be/ku7GaLSLmMM
-![3D Flyover Preview](media/flyover-preview.png)
+![3D Flyover Preview](flyover-preview.png)
 
 # 🌡️ Urban Heat Island Detection — PyQGIS + Claude AI
 ## Live Demo
